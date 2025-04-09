@@ -172,7 +172,7 @@ modelo,año_registro,km_recorridos,kilometraje(kmpl),caballos_fuerza,precio_dola
 2014 Nissan Terrano XV 110 PS Limited Edition,2014,100000,14.61,305,6
 2014 Renault Duster RXL AWD,oct-14,80000,19.01,254,2.85
 2016 Honda City i VTEC V,mar-16,57453,17.8,128,6.24
-2011 Ford Figo Petrol EXI,jun-11,66717,11.96,215,70000
+2011 Ford Figo Petrol EXI,jun-11,66717,11.96,215,7
 2016 Mercedes-Benz GLS 350d 4MATIC,2016,40000,11,251,43.33
 2022 Volvo XC40 T4 R-Design,Jan-22,16433,19.69,257,43.75
 2018 BMW X1 sDrive20i xLine,Dec-18,17860,15.71,119,29.9
@@ -192,7 +192,7 @@ modelo,año_registro,km_recorridos,kilometraje(kmpl),caballos_fuerza,precio_dola
 2014 Nissan Terrano XV 110 PS Limited Edition,2014,100000,14.61,299,6
 2014 Renault Duster RXL AWD,oct-14,80000,19.01,234,2.85
 2016 Honda City i VTEC V,mar-16,57453,17.8,222,6.24
-2011 Ford Figo Petrol EXI,jun-11,66717,11.96,228,70000
+2011 Ford Figo Petrol EXI,jun-11,66717,11.96,228,7
 2016 Mercedes-Benz GLS 350d 4MATIC,2016,40000,11,267,43.33
 2022 Volvo XC40 T4 R-Design,Jan-22,16433,19.69,253,43.75
 2018 BMW X1 sDrive20i xLine,Dec-18,17860,15.71,217,29.9
@@ -236,7 +236,7 @@ modelo,año_registro,km_recorridos,kilometraje(kmpl),caballos_fuerza,precio_dola
 2017 BMW X1 sDrive20d Expedition,2017,32000,19.95,231,18.2
 2017 BMW X1 sDrive20d Expedition,2017,32000,19.95,317,18.2
 2021 MG Gloster Savvy 6-Str,may-21,35000,12.4,343,36
-2014 Hyundai Grand i10 Magna,Dec-14,67264,119.7,140,3.27
+2014 Hyundai Grand i10 Magna,Dec-14,67264,11.97,140,3.27
 2019 Mercedes-Benz V-Class 2019-2022 Exclusive,mar-19,17000,16,143,65
 2013 Maruti Wagon R LXI CNG,Aug-13,77584,26.6,328,2.8
 2016 Mercedes-Benz S-Class Maybach S500,Sep-16,50000,7.81,337,98.5
@@ -465,7 +465,7 @@ modelo,año_registro,km_recorridos,kilometraje(kmpl),caballos_fuerza,precio_dola
 2018 Mercedes-Benz S-Class Maybach S500,jul-18,40000,7.81,334,01.09
 2010 Maruti Alto 800 LXi BSIII,oct-10,77684,7.96,171,1.54
 2021 Audi Q5 Technology BSVI,Jan-22,22900,13.47,255,54.8
-2022 Mercedes-Benz A-Class Limousine A 200d BSVI,2022,10000,147.51,263,42
+2022 Mercedes-Benz A-Class Limousine A 200d BSVI,2022,10000,14.751,263,42
 2022 Mercedes-Benz GLS 400d 4MATIC,Dec-22,19000,29.25,292,1.15
 2014 Hyundai Grand i10 Sportz,jun-14,74846,18.9,314,3.1
 2022 Toyota Glanza S,nov-22,4500,22.35,245,7.55
